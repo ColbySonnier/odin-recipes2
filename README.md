@@ -1,0 +1,1 @@
+This is a practice code with the purpose of learning html.
